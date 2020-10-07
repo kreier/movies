@@ -1,12 +1,10 @@
 # Documentation of movie consumption
 
-Most of us watch a lot of movies. Concepts and key lines are used for cultural reference. Many of my friends refer to movies quite often, so I decided to review my on cunsumption. Starting in 2013 I recorded every movie I watched. For some movies I could remember to have seen them in the cinema. This is a graph of recent movies according to their release year and the year I watched them:
+Most of us watch a lot of movies. Concepts and key lines are used for cultural reference. Many of my friends refer to movies quite often, so I decided to review my [on consumption](https://hofkoh.de/2014/10/filmliste/). Starting in 2013 I recorded every movie I watched. Published [October 2014](https://hofkoh.de/2015/06/medienkonsum-die-zweite/). For some movies I could remember to have seen them in the cinema. This is a graph of recent movies according to their release year and the year I watched them:
 
 ![movies 2020](movies2020.png)
 
 There is more to come ...
-
-<img src="../rfid/IMG_7965.jpg" width="55%">
 
 RFID reader for 125 kHz with 1602 display on Arduino. This is how our setup at the American International School Vietnam looks like:
 
@@ -26,12 +24,6 @@ Find the code here:
 ## Materials
 
 All materials were ordered at [CỬA HÀNG IC ĐÂY RỒI](https://icdayroi.com/). Total cost: 231.000₫ (10 US$). This is the list:
-
-1. [Arduino UNO R3 DIP](https://icdayroi.com/arduino-uno-r3-dip) 110.000₫ Arduino Uno
-2. [Module RFID RDM6300 125KHz giao tiếp UART](https://icdayroi.com/module-rfid-rdm6300-125khz-giao-tiep-uart) 59.000₫ RFID interface 125 kHz
-3. [LCD1602 xanh lá 5V](https://icdayroi.com/lcd1602-xanh-la-5v) 30.000₫ LCD display, 16 symbols in 2 rows
-4. [Module I2C giao tiếp LCD1602, LCD1604, LCD2004](https://icdayroi.com/mach-chuyen-giao-tiep-lcd1602-lcd1604-lcd2004-sang-i2c) 14.000₫ I2C adapter for display
-5. [Bó dây jumper 100MM](https://icdayroi.com/bo-day-jumper-100mm) Some jumper wires 18.000₫
 
 ## Building steps
 
