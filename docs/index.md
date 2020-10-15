@@ -4,41 +4,21 @@ Most of us watch a lot of movies. Concepts and key lines are used for cultural r
 
 ![movies 2020](movies2020.png)
 
-There is more to come ...
+Since I took a mark if I watched a movie, the database goes back to 1921 with more than 4500 movies. As of now I watched 1335 of them. But rarely a new movie from long ago makes it to the list. Or if it does, I've already seen it and it doesn't show up. We're just watching the classics ...
 
-RFID reader for 125 kHz with 1602 display on Arduino. This is how our setup at the American International School Vietnam looks like:
+![45 year graph](movies1975-2020.png)
 
-<img src="../rfid/IMG_7966.jpg" width="45%"> <img src="IMG_7968.jpg" width="45%">
+## Purpose of this repository
 
-### The display encourages you to ...
+As with many data collections it started out as an excel worksheet. Over time the demand on the data extends the capabilties of a spreadsheet document. I want to convert it to a .csv data file and then start to analyse and extend in python on kaggle or colaboratory with a jupyter notebook. Goals:
 
-<img src="display.jpg" width="45%">
+- Find the associated IMDB number for this movie for future reference.
+- Add a recent number of global revenue from boxofficemojo.
+- Indicate the original language of the movie.
 
-And that's all the Arduino behind it. Next time we use plexiglas to be more transparent :)
-<img src="backside.jpg" width="45%">
+The last point came to my attention only in 2019 and 2020 when rather unknown movies made it into the top100 grossing movies of that year. Turns out that the movie market in China has grown in the years since I started this project in 2013 that their domestic market was strong enough to compete with Hollywood.
+
+BTW: I included some german movies that were not really recognized somewhere else in the world.
 
 
-Find the code here:
-(https://github.com/kreier/rfid-125/blob/master/arduino/rfid-125.ino)
 
-## Materials
-
-All materials were ordered at [CỬA HÀNG IC ĐÂY RỒI](https://icdayroi.com/). Total cost: 231.000₫ (10 US$). This is the list:
-
-## Building steps
-
-* Connect the RFID kit to the Arduino, as well as the 1602 with the I2C adapter and 4 wires
-* Connections according to __link will follow__
-* Upload the software found in the link above. Don't forget the library for the hd44780 controller and the hd44780_I2C expansion set. Files are located under library.
-
-Got to [the wiki](https://github.com/matthiaskreier/rfid-125/wiki) for further details. We work on a new RTL-SDR to visualize the communication between the cards on the 125 kHz and 13.56 MHz frequency.
-
-## Old pictures from 2018
-
-![RFID reader](window.jpg)
-
-The display encourages you to ...
-![](https://github.com/matthiaskreier/rfid-125/blob/master/docs/display.jpg)
-
-And that's all the Arduino behind it. Next time we use plexiglas to be more transparent :)
-![](https://github.com/matthiaskreier/rfid-125/blob/master/docs/backside.jpg)
