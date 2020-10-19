@@ -20,5 +20,15 @@ The last point came to my attention only in 2019 and 2020 when rather unknown mo
 
 BTW: I included some german movies that were not really recognized somewhere else in the world.
 
+## Progress in 8 years
 
+Since I started this project in 2013 I collected a lot of data on my movie culture. See how it evolved over a period of 8 years:
 
+![Movies watched in 2013](movies2013.png)
+![Movies watched in 2013](movies2014.png)
+![Movies watched in 2014](movies2015.png)
+![Movies watched in 2015](movies2016.png)
+![Movies watched in 2016](movies2017.png)
+![Movies watched in 2017](movies2018.png)
+![Movies watched in 2018](movies2019.png)
+![Movies watched in 2020](movies2020.png)
