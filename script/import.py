@@ -1,26 +1,17 @@
-import os
-
-path = os.path.join('c:' + os.sep, 'Users', 'xxxx', 'Desktop', 'student-intervention-system', 'student-data.csv')
-student_data = pd.read_csv(path)
-
-import sys  
-sys.path.insert(0, '/path/to/application/app/folder')
-
-import file
+# import a movie list csv file and use the imdb API to find the imdbID
 
 import sys
-import os
-
-module_path = os.path.abspath(os.path.join('..'))
-if module_path not in sys.path:
-    sys.path.append(module_path+"\\nn_webserver")
-
-from employee import motivation_to_work
-
-
-# or you can
-
 import pandas as pd
 
-df = pd.read_csv (r'Path where the CSV file is stored\File name.csv')
-print (df)
+def check_database(year):
+    current_file = "./data" + year + ".csv"
+    current_list = pd.read_csv(current_file, encoding='utf-8')
+    print(current_list)
+
+if __name__ == "__main__":
+    print(f"Update database with IMDB API")
+    if len(sys.argv) < 2:
+        print("You did not provide a year as argument. Put it as a parameter after import.py")
+        exit()
+    year = sys.argv[1]
+    check_database(year)
