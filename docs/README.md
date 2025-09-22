@@ -3,10 +3,16 @@
 Most of us watch a lot of movies. Concepts and key lines are used for cultural reference. Many of my friends refer to movies quite often, so I decided to review my [on consumption](https://hofkoh.de/2014/10/filmliste/). Starting in 2013 I recorded every movie I watched. Published [October 2014](https://hofkoh.de/2015/06/medienkonsum-die-zweite/). For some movies I could remember to have seen them in the cinema. This is a graph of recent movies according to their release year and the year I watched them:
 
 ![movies 2020](movies2020.png)
+![movies 2025](movies2025.svg)
+
 
 Since I took a mark if I watched a movie, the database goes back to 1921 with more than 4500 movies. As of now I watched 1335 of them. But rarely a new movie from long ago makes it to the list. Or if it does, I've already seen it and it doesn't show up. We're just watching the classics ...
 
 ![45 year graph](movies1975-2020.png)
+
+And in some years I have more time to go to the movies, or stream it at home - starting 2015:
+
+![movies 2000 to 2025 by year](movies2025per_year.svg)
 
 ## Purpose of this repository
 
@@ -32,3 +38,4 @@ Since I started this project in 2013 I collected a lot of data on my movie cultu
 ![Movies watched in 2017](movies2018.png)
 ![Movies watched in 2018](movies2019.png)
 ![Movies watched in 2020](movies2020.png)
+![Movies watched in 2025](movies2025.png)

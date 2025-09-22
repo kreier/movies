@@ -21,3 +21,13 @@ As with many data collections it started out as an excel worksheet. Over time th
 The last point came to my attention only in 2019 and 2020 when rather unknown movies made it into the top100 grossing movies of that year. Turns out that the movie market in China has grown in the years since I started this project in 2013 that their domestic market was strong enough to compete with Hollywood.
 
 BTW: I included some german movies that were not really recognized somewhere else in the world.
+
+## Update 2025
+
+By now my movie list has 5000 entries and I watched more than 1500 of them.
+
+![released and watched](docs/movies2025.svg)
+
+And just how many movies I watch per year:
+
+![movies per year](docs/movies2025per_year.svg)
