@@ -4,7 +4,7 @@
 ![GitHub License](https://img.shields.io/github/license/kreier/movies)
 [![pages-build-deployment](https://github.com/kreier/movies/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kreier/movies/actions/workflows/pages/pages-build-deployment)
 
-Evaluate your media consumption
+**Evaluate your media consumption**
 
 This project started in 2013. From that year on I took notes which movie I watched in which year. I got a 2-dimensional graph for the last 6 years of an ever growing number of movies. This chart of 7 years already indicates that we probably mostly watch recent movies.
 
